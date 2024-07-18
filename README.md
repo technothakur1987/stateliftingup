@@ -5,3 +5,5 @@ https://stateliftingup.netlify.app/
  Now here u will find that statevariable is defined in Child but accessed in parent 
  This feature is called statelifting up 
 
+ Now this statevariable can be passed in adjacent sibling of Child as a prop..
+
